@@ -1,4 +1,4 @@
-# Built-in Duckdb Extensions
+# Built-in DuckDB Extensions
 
 Add duckdb extension on pip install, download and store on site-packages dir.
 
